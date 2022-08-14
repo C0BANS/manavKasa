@@ -26,7 +26,7 @@ public class manavKasa {
         double tutar = (farmut + felma + fdomat + fmuz + fpatli);
 
 
-        System.out.println("Toplam Tutar : "+tutar " TL" );
+        System.out.println("Toplam Tutar : "+tutar+" TL" );
         System.out.println("Alisverisinizde bizi tercih ettiginiz icin tesekkur eder Saglikli gunler dileriz");
 
 
